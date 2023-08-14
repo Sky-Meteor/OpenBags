@@ -1,0 +1,3 @@
+displayName = Auto open bags自动开袋
+author = B站-屑年糕- 定制,@Furgo 制作
+version = 3.1

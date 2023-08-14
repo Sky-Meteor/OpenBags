@@ -1,0 +1,4 @@
+Set the key in the control to switch the automatic bag opening effect
+The effect stops automatically when there is no item in the backpack to open
+在控件中设置按键来开关自动开袋效果
+当背包中没有需要打开的物品时自动停止效果
